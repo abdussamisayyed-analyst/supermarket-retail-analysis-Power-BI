@@ -153,17 +153,17 @@ This page analyzes brand performance and product contribution.
 # 📷 Dashboard Preview
 
 ## 🏠 Retail Analysis Home
-![Retail Analysis Home](Images/Home.png)
+![Retail Analysis Home](Home.png)
 
 ---
 
 ## 🏬 Store Analysis
-![Store Analysis](Images/Store.png)
+![Store Analysis](Store.png)
 
 ---
 
 ## 🏷 Brand Analysis
-![Brand Analysis](Images/Brand.png)
+![Brand Analysis](Brand.png)
 
 ---
 
