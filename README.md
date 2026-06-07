@@ -174,7 +174,7 @@ This dashboard enables businesses to:
 - Understand customer behavior
 - Improve inventory planning
 - Identify profitable brands and stores
-- Make data-driven business decisions
+- Make data-driven business decisions.
 
 ---
 
