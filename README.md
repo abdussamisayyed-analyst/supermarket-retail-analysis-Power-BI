@@ -184,7 +184,7 @@ This dashboard enables businesses to:
 
 📧 Email: abdussamisayyed@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/sayyed-abdussami-a9b893353/
+🔗 LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7457336078300061696/
 
 # 📁 Repository Contents
 
