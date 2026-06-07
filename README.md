@@ -178,6 +178,14 @@ This dashboard enables businesses to:
 
 ---
 
+## Contact
+
+**Abdussami Sayyed**
+
+📧 Email: abdussamisayyed@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/sayyed-abdussami-a9b893353/
+
 # 📁 Repository Contents
 
 ```bash
