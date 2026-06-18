@@ -1,5 +1,7 @@
 # 🛒 Supermarket Retail Strategy and Analysis Dashboard
 
+🔗 LinkedIn Post Link : https://www.linkedin.com/feed/update/urn:li:activity:7457336078300061696/
+
 An interactive and data-driven Power BI dashboard designed to analyze supermarket retail performance across sales, customers, stores, and brands.  
 This project transforms raw retail transaction data into actionable business insights using powerful visualizations, KPIs, and dynamic filtering.
 
